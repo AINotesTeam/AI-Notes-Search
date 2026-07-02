@@ -18,6 +18,15 @@ Help students study more efficiently by:
 
 **AI/RAG:** Embeddings, Vector DB (FAISS/ChromaDB), LangChain
 
+## Roadmap
+- [x] Project setup & repo structure
+- [x] FastAPI backend skeleton
+- [x] Auth (signup/login)
+- [ ] PDF upload & storage
+- [ ] Embedding + vector search integration
+- [ ] RAG-based Q&A endpoint
+- [ ] Frontend
+
 ## Team
 
 - Prakrati Saxena — Backend & Auth
