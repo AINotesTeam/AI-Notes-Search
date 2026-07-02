@@ -15,6 +15,7 @@ Help students study more efficiently by:
 ## Tech Stack
 
 **Backend:** FastAPI, PostgreSQL, SQLAlchemy, JWT auth
+
 **AI/RAG:** Embeddings, Vector DB (FAISS/ChromaDB), LangChain
 
 ## Team
